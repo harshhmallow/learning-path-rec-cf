@@ -1,0 +1,7 @@
+course_id,course_name,category,difficulty,prerequisite_id
+5001,Intro to Data Science,Data,Beginner,
+5002,Python for Data Analysis,Data,Beginner,5001
+5003,Introduction to Machine Learning,AI,Intermediate,5002
+5004,Advanced SQL for Analytics,Data,Intermediate,5001
+5005,Deep Learning with TensorFlow,AI,Advanced,5003
+5006,Data Visualization with Matplotlib,Data,Intermediate,5002
