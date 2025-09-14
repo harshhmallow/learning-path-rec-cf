@@ -1,0 +1,2 @@
+This is a simple recommendation system designed to suggest personalized learning paths for students or learners.
+It uses Collaborative Filtering, which works by analyzing user behavior (such as courses viewed, enrolled and completed) and identifying patterns among similar users. Based on these patterns, the system recommends the next best courses for a learner, helping them follow an effective and customized learning journey.
